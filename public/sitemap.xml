@@ -9,6 +9,6 @@
 <url> <loc>https://emma.lekoarts.de/jb</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://emma.lekoarts.de/photo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://emma.lekoarts.de/fire</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://emma.lekoarts.de/fissure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://emma.lekoarts.de/homeland</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://emma.lekoarts.de/fissure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
