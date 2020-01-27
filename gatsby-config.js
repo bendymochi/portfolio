@@ -26,7 +26,7 @@ module.exports = {
       options: {
         name: `Emma - @lekoarts/gatsby-theme-emma`,
         short_name: `Meiyen`,
-        description: `Minimalistic bright portfolio with full-width grid and large images`,
+        description: `Developer`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#b83280`,
